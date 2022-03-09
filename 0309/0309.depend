@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1646810134 source:c:\users\samat\desktop\0309\main.c
+	<stdio.h>
+	<stdlib.h>
+	<assert.h>
+	<pthread.h>
+	<unistd.h>
+
