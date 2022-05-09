@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1652119032 source:c:\users\samat\desktop\parhalg\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
